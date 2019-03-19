@@ -2,4 +2,9 @@ wo bu xi huan ni
 222222
 wo xi huan ni
 wo wo wo
+<<<<<<< Updated upstream
 123
+=======
+dev
+aaa
+>>>>>>> Stashed changes
